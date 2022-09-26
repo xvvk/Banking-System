@@ -1,7 +1,8 @@
 # Banking-System
 ## CS313 Computer Systems and Concurrency Group Assignment
 
-##### Completed by Karmen Tsang and Sudeep Dhakal
+##### Banking System completed by Karmen Tsang, Sudeep Dhakal and Mackie Burgess
+##### Report Completed by Aqsa Hamid, Karmen Tsang, Erin Allen Sudeep Dhakal and Mackie Burgess
 
 ##### **Project overview** 
 The project consists of two parts (Part A and Part B), which are (to a large extent)
