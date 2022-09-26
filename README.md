@@ -1,6 +1,8 @@
 # Banking-System
 ## CS313 Computer Systems and Concurrency Group Assignment
 
+##### Completed by Karmen Tsang and Sudeep Dhakal
+
 ##### **Project overview** 
 The project consists of two parts (Part A and Part B), which are (to a large extent)
 unrelated. 
